@@ -37,3 +37,4 @@ After that it asks whether you would like to analyze another interaction or not.
  -- numpy--> python3 -m pip install numpy
  -- easygui --> python3 -m pip install easygui
  -- pandas --> python3 -m pip install pandas
+
