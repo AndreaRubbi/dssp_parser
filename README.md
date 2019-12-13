@@ -7,7 +7,7 @@ It is written in python and it is quite easy to use:
 ### How to use it:
 
 run the program using: 
-$ ./dssp_parser
+$ ./dssp_parser.py
 
 It will then ask you some info:
 chain of interest --> input on terminal
